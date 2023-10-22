@@ -1,0 +1,176 @@
+@media (max-width: 666px) and (min-width: 300px) {
+.flxDircC{
+  flex-direction: column;
+
+}
+    .leftContent .hiText{
+        font-size: 27px;
+        line-height: 35px;
+        padding-top: 68px;
+        margin-top: -12%;
+
+    }
+    .leftContent .coolText{
+        font-size: 27px;
+    }
+
+    .leftContent .hiSubtitle {
+     
+        font-size: 15px;
+      
+        line-height: 30px;
+      
+    }
+
+    .heroCalltoAction .myBtn{
+        font-size: 12px;
+        padding: 8px 48px;
+
+    }
+    .heroContact h4 { 
+        font-size: 13px;
+    }
+    .heroContact .leftI{
+        height: 67px;
+
+    }
+    .rightContent img {
+        margin-top: -63% !important;
+        padding-bottom: 64px;
+    }
+
+    #aboutme {
+        padding: 34px;
+        padding-left: 64px;
+        padding-top: 21%;
+
+    }
+
+    .myButton{
+        font-size: 12px;
+    padding: 8px 48px;
+    }
+
+    .crdAbout{
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .name{
+        font-size: 25px;
+        width: 400px !important;
+
+
+    }
+    #aboutme .namebody{
+        font-size: 16px;
+
+    }
+
+
+    .aboutExprience{
+        display: flex;
+    width: 280px;
+    max-width: 300px;
+    padding-right: 0px;
+    padding-left: 27px;
+    gap:10px;
+  
+      }
+
+      .card-customExpr {
+
+        width: 80vw;
+        padding: 14px 18px;
+        
+    margin-top: 5%;
+    }
+    .card-customService{
+        width: 80vw;
+
+    }
+      .everythingAboutContainer{
+        justify-content: left;
+      }
+
+      .blog{
+        width: 80vw;
+
+      }
+
+      div#recentProjectsSlider{
+        width: 85vw;
+
+      }
+
+      .crdAbout .card-custom{
+        width: 74vw !important;
+
+      }
+
+      .heroContact {
+
+        width: 280px;
+        display: none;
+      }
+
+      .get-in-touch{
+        width: 85vw;
+
+      }
+
+      .circle{
+        display: none;
+      }
+      #recentProjectsSlider .card-img-top{
+        height: 395.14px;
+
+      }
+
+      .navbar-expand-lg .navbar-nav {
+        margin-left: 10%;
+      
+      }
+
+      
+iframe{
+  width: 800px !important;
+  height: 700%;
+  
+}
+
+.vdYT{
+width: 400px;
+padding-left: 10%;
+
+}
+
+.nav.nav-tabs .nav-item .nav-link {
+padding: 7px;
+font-size: 1rem;
+}
+.nav.nav-tabs {
+  width: 175%;
+  justify-content: left;
+}
+}
+
+
+
+@media (max-width: 1400px) and (min-width: 680px) {
+
+     .name{
+        font-size: 31px;
+
+    }
+    .crdAbout .card-custom {
+        width: 24vw !important;
+    }
+    .card-customExpr{
+        width: 511px;
+
+    }
+
+    .card-customService {
+        width: 350px;
+    }
+}
